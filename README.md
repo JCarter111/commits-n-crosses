@@ -13,7 +13,7 @@ Commits N Crosses
 
 -------------
 
- Player X: Jackie
+ Player X: web Jackie
  
  Player O: Jaxx
 
