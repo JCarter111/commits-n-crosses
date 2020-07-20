@@ -13,9 +13,9 @@ Commits N Crosses
 
 -------------
 
- Player X: [name]
+ Player X: Jackie
  
- Player O: [name]
+ Player O: Jaxx
 
 -------------
 
